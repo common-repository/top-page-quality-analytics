@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: top-analytics\n"
+"POT-Creation-Date: 2013-11-22 14:58+0100\n"
+"PO-Revision-Date: 2013-11-22 15:00+0100\n"
+"Last-Translator: Jan Hvizdak <postmaster@aqua-fish.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress\\wp-content\\plugins\\top-"
+"page-quality-analytics\n"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:177
+msgid "Welcome to TOP Page Quality Analytics plugin"
+msgstr "Vitajte v plugine TOP Page Quality Analytics"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:181
+msgid "by"
+msgstr "od"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:185
+msgid "Author&rsquo;s website"
+msgstr "Webstránka autora"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:190
+msgid ""
+"This plugin allows anyone connect his/her WordPress with Website Quality "
+"Analytics tool which analyses quality of landing pages, offers advice "
+"regarding content and search terms that produce low-quality visits."
+msgstr ""
+"Tento plugin umožňuje prepojenie akéhokoľvek blogu s nástrojom zvaným "
+"Website Quality Analytics, ktorý analyzuje kvalitu vstupných stránok, "
+"poskytuje odporúčania ohľadom obsahu a kľúčových slov, ktoré produkujú "
+"návštevnosť s krátkou dobou trvania."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:196
+msgid "All you need is an ID (identifier) which can be acquired after "
+msgstr ""
+"Všetko, čo potrebujete je iba ID (identifikátor), ktorý je možné obdržať po "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:200
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:256
+msgid "Get your ID now!"
+msgstr "Získajte svoje ID teraz!"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:204
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:225
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:274
+msgid "clicking this link"
+msgstr "kliknutí tohto odkazu"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:208
+msgid ""
+"Once you get ID for your website, put it into the box below in order to "
+"allow langing page quality analytics start monitoring which pages and search "
+"terms need your attention."
+msgstr ""
+"Akonáhle získate ID pre vaše webstránky, zadajte ho do políčka nižšie, čo "
+"umožní tomuto pluginu úspešné prepojenie s našim nástrojom a vy získate "
+"prehľad o tom, čo na vašom webe vylepšiť."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:217
+msgid ""
+"<span id=\"running_ok\">&#10004; Tracking is running! See your statistics by "
+msgstr ""
+"<span id=\"running_ok\">&#10004; Monitorovanie beží! Štatistiky si môžete "
+"prezrieť po "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:221
+msgid ""
+"Login to see statistics and recommendations regarding quality of traffic"
+msgstr ""
+"Prihláste sa na prezeranie štatistík a odporúčaní ohľadom kvality "
+"návštevnosti "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:230
+msgid ""
+"<span id=\"running_not\">Tracking is not running, enter your ID below, "
+"please!</span>"
+msgstr ""
+"<span id=\"running_not\">Monitorovanie nebeží! Nižšie vložte svoje ID, aby "
+"plugin posielal dáta!</span>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:234
+msgid "Your TOP identifier:"
+msgstr "Váš identifikátor pre TOP:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:238
+msgid "Put your ID into this box and save it"
+msgstr "Tu vložte svoje ID a kliknite na uloženie"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:242
+msgid "Save my ID"
+msgstr "Ulož moje ID"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:246
+msgid "Save my ID now and start tracking"
+msgstr "Ulož moje ID a začni monitorovanie"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:252
+msgid "Don&rsquo;t have ID for this website yet?"
+msgstr "Nemáte ešte svoje ID pre tento blog?"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:260
+msgid "Click here to get one!"
+msgstr "Kliknite tu pre získanie!"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:266
+msgid ""
+"<p>Once you save your ID, your website&rsquo;s traffic is going to be "
+"analysed by our application and you&rsquo;ll be able to review quality of "
+"its traffic as soon as visitors start visiting it! Since analysis is done on "
+"our servers in order not to consume resources and space on yours, you can "
+"login to the TOP application by "
+msgstr ""
+"<p>Akonáhle uložíte svoje ID, návštevnosť vášho blogu bude analyzovaná našou "
+"aplikáciou a bude vám umožnené prehliadať si informácie o kvalite ihneď po "
+"tom, čo prví návštevníci zavítajú na vašu lokalitu. Keďže analýza "
+"návštevnosti prebieha na našich serveroch z toho dôvodu, aby sme "
+"nezaťažovali vaše prostredie, do aplikácie TOP za môžete prihlásiť po "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:270
+msgid "Click to login to the application"
+msgstr "Kliknite pre prihlásenie do aplikácie"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:281
+msgid ""
+"Why to monitor low quality traffic and why Google Analytics isn&rsquo;t "
+"sufficient for this purpose?"
+msgstr ""
+"Prečo sa oplatí monitorovať návštevnosť, ktorá nie je kvalitná a prečo "
+"Google Analytics nie je dostatočný nástroj na tento účel?"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:285
+msgid ""
+"<p>User behaviour is now monitored by search engines including <a href="
+"\"http://www.google.com\" title=\"Open Google&rsquo;s search page\" target="
+"\"_blank\">Google</a> and <a href=\"http://www.bing.com\" target=\"_blank\" "
+"title=\"Open Bing&rsquo;s search page\">Bing</a>/<a href=\"http://www.yahoo."
+"com\" target=\"_blank\" title=\"Go to Yahoo!\">Yahoo!</a> and one of most "
+"important factors that affect your rankings is &ldquo;hitting the back "
+"button&rdquo;. Low quality traffic from seach engines might reduce your "
+"website&rsquo;s total traffic which naturally lowers your income if your "
+"website makes money. This in short is a significant part of Google&rsquo;s "
+"Panda algorithm.</p>"
+msgstr ""
+"<p>Správanie návštevníkov je už dlhšiu dobu monitorované všetkými "
+"vyhľadávačmi vrátane <a href=\"http://www.google.com\" title=\"Otvor "
+"vyhľadávanie Google\" target=\"_blank\">Google</a> a <a href=\"http://www."
+"bing.com\" target=\"_blank\" title=\"Otvor vyhľadávanie Bing-u\">Bing</a>/<a "
+"href=\"http://www.yahoo.com\" target=\"_blank\" title=\"Choď na Yahoo!"
+"\">Yahoo!</a> a jedným z najpodstatnejších aspektov toho, ako bude vaša "
+"stránka hodnotená je takzvané &ldquo;tlačítko späť&rdquo;. Návštevnosť s "
+"nízkou kvalitou môže negatívne ovplyvniť vaše pozície vo výsledkoch "
+"vyhľadávania, čo samozrejme znižuje návštevnosť a nakoniec aj zisky v "
+"prípade, že váš projekt zarába peniaze. Tento princíp je z veľkej miery "
+"podstatou algoritmu zvaného ako Google Panda.</p>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:287
+msgid ""
+"<p>If you&rsquo;ve noticed an overnight decrease or increase in traffic of "
+"your website from Google, it could be due to Panda algorithm.</p>"
+msgstr ""
+"<p>Ak ste zaznamenali nárast, alebo pokles návštevnosti z Googlu počas "
+"jednej noci, je veľmi pravdepodobné, že sa jedná práve o vplyv algoritmu "
+"Google Panda.</p>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:289
+msgid ""
+"<p>What&rsquo;s more Google Analytics doesn&rsquo;t provide you with real "
+"length of visit as they measure length of visit until last click which in "
+"fact means whenever a visitor comes to your website, spends 10 minutes there "
+"reading your article and not making any click, and then leaving your website "
+"it&rsquo;s always shown as a zero second visit. It&rsquo;s only search "
+"engines that know exact length of visit in such a case. However with TOP you "
+"can find out real length of visits too!</p>"
+msgstr ""
+"<p>Google Analytics vám neposkytne informácie o tom, ako dlho skutočne ľudia "
+"ostávajú na vašich stránkach, keďže Google Analytics meria dĺžku návštevy "
+"iba po posledné kliknutie, čo v praxi znamená, že aj 10 minút dlhá návšteva "
+"sa javí ako 0 sekúnd trvajúca v prípade, že takýto návštevník neklikol nikam "
+"a iba čítal napríklad článok. V tomto prípade sú to iba samotné vyhľadávače, "
+"ktoré vedia určiť, ako dlho trvala návšteva. No s aplikáciou TOP viete tento "
+"údaj zistiť aj vy sami!</p>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:291
+msgid ""
+"<p>It is not just time you need to know. In fact this is only the first step "
+"of improving your website and beating your competitors! Bear in mind "
+msgstr ""
+"<p>Nie je to len čas, o ktorom by ste mali mať prehľad. V skutočnosti sa "
+"jedná iba o prvý krok k zlepšeniu vašich stránok a k predbehnutiu vašich "
+"konkurentov! Majte na pamäti "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:295
+msgid ""
+"Search engines prefer sending their users to websites that are relevant to "
+"search terms!!!"
+msgstr ""
+"Vyhľadávače najradšej pošlú svojich užívateľov tam, kde nájdu odpovede na "
+"svoje otázky!!!"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:301
+msgid "<h2>Read more about length of visit</h2>"
+msgstr "<h2>O dĺžke trvania návštevy sa môžete dočítať viac na</h2>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:306
+msgid "Article @ nichepursuits.com"
+msgstr "Článok na nichepursuits.com"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:310
+msgid "How Important is Time on Site for Ranking in Google"
+msgstr "Aký dôležitý je čas strávený na stránke pre hodnotenie v Google-i"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:315
+msgid "Article @ backlinko.com"
+msgstr "Článok na backlinko.com"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:319
+msgid "Google Ranking Factors: The Complete List"
+msgstr "Hodnotenie v rámci Google: Kompletný zoznam"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:323
+msgid "(see point 76)"
+msgstr "(pozrite bod 76)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:328
+msgid "Article @ rankexecutives.com"
+msgstr "Článok na rankexecutives.com"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:332
+msgid "Is Time On Site A Ranking Factor"
+msgstr "Je čas strávený na stránke faktor pre hodnotenie?"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:337
+msgid "Article @ seobythehour.com"
+msgstr "Článok na  seobythehour.com"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:341
+msgid "Top SEO Ranking Factors"
+msgstr "Najdôležitejšie faktory pre SEO"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:348
+msgid "<h2>Privacy &amp; SSL</h2>"
+msgstr "<h2>Súkromie &amp; SSL</h2>"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:350
+msgid ""
+"<p>You should notify visitors of your website that cookies are being used to "
+"understand whether they&rsquo;re happy when browsing your website or whether "
+"they rather leave. Also there&rsquo;s a restriction within this plugin not "
+"to use tracking when visitors browse your website using SSL (https) as this "
+"is usually used for online shops and therefore privacy of your visitors is "
+"respected! All about how TOP uses/handles cookies and security can be found "
+"on following pages:"
+msgstr ""
+"<p>Mali by ste návštevníkov svojich stránok oboznámiť s tým, že využívate "
+"cookies pre porozumenie ich správania sa na vašej lokalite, čo ďalej "
+"využívate pre skvalitnenie obsahu a funkcionality. Zároveň tento plugin "
+"automaticky vypne monitorovanie návštevnosti, ak identifikuje stránku s "
+"použitím SSL. Toto obmedzenie je uplatnené z dôvodu využívanie SSL "
+"predovšetkým pri online nákupoch a iných senzitívnych operáciach a jeho "
+"cieľom je rešpektovanie súkromia návštevníkov vašich stránok. O tom, ako v "
+"TOP používamie cookies a zaručujeme súkromie je možné zistiť viac na "
+"nasledujúcich stránkach:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:354
+msgid "How TOP handles cookies"
+msgstr "Ako TOP spravuje cookies"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:358
+msgid "cookies"
+msgstr "cookies"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:362
+msgid "and"
+msgstr "a"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:366
+msgid "Security of data at TOP"
+msgstr "Bezpečnosť dát v aplikácii TOP"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\top-page-quality-analytics/top-analytics.php:370
+msgid "security"
+msgstr "bezpečnosť"

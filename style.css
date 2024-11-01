@@ -1,0 +1,78 @@
+/*cely objekt*/
+#top_tracking {
+	font-size:medium;
+	padding:1em;
+	line-height:1.3em;
+	text-align:justify;
+}
+
+/*odkaz*/
+#top_tracking a {
+	-webkit-transition: color 0.5s ease-in-out;
+	-moz-transition: color 0.5s ease-in-out;
+	-ms-transition: color 0.5s ease-in-out;
+	-o-transition: color 0.5s ease-in-out;
+	transition: color 0.5s ease-in-out;
+}
+
+/*heading1*/
+#top_tracking h1 {
+	font-size:115%;
+}
+
+/*heading2*/
+#top_tracking h2 {
+	font-size: 110%;
+}
+
+/*paragraf*/
+#top_tracking p {
+	font-size:100%;
+}
+
+/*horizontalna ciara*/
+#top_tracking hr {
+	border: 0;
+	height: 1px;
+	background: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+	background: -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+	background: -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+	background: -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+	/*background: linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));*/
+}
+
+/*formular*/
+#top_tracking #top_saver {
+	-moz-box-shadow:1ex 1ex 0.5ex #000000;
+	-webkit-box-shadow:1ex 1ex 0.5ex #000000;
+	box-shadow:1ex 1ex 0.5ex #000000;
+	background: rgba(223,  235,  215,  0.6);
+	height: 5em;
+	padding:2em 5em 2em 5em;
+	-moz-border-radius: 1em 8em 1em 8em;
+	border-radius: 1em 8em 1em 8em;
+	display:table-cell;
+	vertical-align:middle;
+	font-weight:bold;
+}
+
+/*uppercase*/
+#top_tracking #upp {
+	text-transform:uppercase;
+	font-weight:bold;
+	display:inline;
+	padding:2em;
+	text-align:center;
+}
+
+#top_tracking ul {
+	list-style-type:upper-roman;
+}
+
+#top_tracking #running_ok {
+	color:Blue;
+}
+
+#top_tracking #running_not {
+	color:Red;
+}
